@@ -1,4 +1,4 @@
-# PHP Partie 1
+# PHP Partie 2
 
 ## exercice 1
 
