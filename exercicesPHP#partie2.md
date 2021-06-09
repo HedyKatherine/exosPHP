@@ -1,4 +1,4 @@
-# PHP Partie 1
+# PHP Partie 2
 
 ## exercice 1
 
@@ -21,6 +21,8 @@ Initialisez une variable à 1. Tant que cette variable est inférieure à 100, i
 
 Initialisez une variable à 200. Tant que cette variable est supérieure à 0, décrémentez avec un pas de 12.
 
+## Bonus 
 
+Créez un tableau contenant les 12 mois de l'année. Afficher ces mois dans un "select". 
 
 
