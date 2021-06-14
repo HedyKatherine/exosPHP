@@ -14,15 +14,15 @@ Créez un lien avec les paramètres "nom", "prénom" et "âge"  dirigeant sur un
 
 ## exercice 4
 
-Créez un lien avec les paramètres "langage", "serveur" dirigeant sur une autre page. Vérifiez si le paramètre serveur existe, si oui affichez le sinon affichez une un message d'erreur.
+Créez un lien avec les paramètres "langage", "serveur" dirigeant sur une autre page. Vérifiez si le paramètre serveur existe, si oui affichez le sinon affichez un message d'erreur.
 
 ## exercice 5
 
-Créez un lien avec les paramètres "langage", "serveur" dirigeant sur une autre page. Vérifiez si les paramètres existent, si oui affichez les sinon affichez une un message d'erreur. 
+Créez un lien avec les paramètres "langage", "serveur" dirigeant sur une autre page. Vérifiez si les paramètres existent, si oui affichez les sinon affichez un message d'erreur. 
 
 ## exercice 6
 
-Créez un lien avec les paramètres "langage", "serveur" dirigeant sur une autre page. Vérifiez si les paramètres existent, si oui affichez les sinon affichez une un message d'erreur. Vous devez empêchez l'inclusion de balises html dans les paramètres.
+Créez un lien avec les paramètres "langage", "serveur" dirigeant sur une autre page. Vérifiez si les paramètres existent, si oui affichez les sinon affichez un message d'erreur. Vous devez empêchez l'inclusion de balises html dans les paramètres.
 
 
 
