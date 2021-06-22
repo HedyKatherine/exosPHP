@@ -2,7 +2,7 @@
 
 ## exercice 1
 
-Sur une mêmepage, affichez votre user_agent, l'adresse ip de votre serveur et le nom de votre serveur.
+Sur une même page, affichez votre user_agent, l'adresse ip de votre serveur et le nom de votre serveur.
 
 ## exercice 2
 
@@ -16,4 +16,10 @@ Créez trois variables de session (nom, prénom et âge). Au clic sur un lien, a
 
 Créez un formulaire demandant un pseudo et mot de passe. Au clic sur le bouton "envoyer", affichez le pseudo et mot de passe sur une autre page.
 
+## exercice 5
 
+Intialisez deux cookie : pseudo et login. Créez deux champs afin de donner une valeur aux cookie. Afficher ces cookie sur la même page.
+
+## exercice 6
+
+Intialisez deux cookie : pseudo et login. Créez deux champs afin de donner une valeur aux cookie. Afficher ces cookie sur une autre page.
